@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**gustavobat/gustavobat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gustavo (he/him) and I love programming clean, efficient, open-source software.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p align="left">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="50">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="50">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="50">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="50">
+    <img src="https://github.com/gustavobat/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="50">
+</p>
