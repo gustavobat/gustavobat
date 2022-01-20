@@ -17,6 +17,5 @@ I'm Gustavo (he/him) and I love programming clean, efficient, open-source softwa
 <p align="left">
     <img src="https://github.com/gustavobat/devicon/blob/master/icons/react/react-original.svg" alt="c++" width="30">
     <img src="https://github.com/gustavobat/devicon/blob/master/icons/qt/qt-original.svg" alt="c" width="30">
-    <img src="https://github.com/gustavobat/devicon/blob/develop/icons/csharp/csharp-original.svg" alt="c" width="30">
 </p>
 
